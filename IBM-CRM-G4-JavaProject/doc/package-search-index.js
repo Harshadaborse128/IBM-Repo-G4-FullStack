@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ibm.application"},{"l":"com.ibm.array"},{"l":"com.ibm.bean"},{"l":"com.ibm.collection"},{"l":"com.ibm.custmerexception"},{"l":"com.ibm.demo"},{"l":"com.ibm.exception"},{"l":"com.ibm.jdbc"},{"l":"com.ibm.service"}];updateSearchResults();
